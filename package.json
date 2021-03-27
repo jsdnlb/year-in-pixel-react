@@ -2,9 +2,13 @@
   "name": "year-in-pixel-react",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
+    "esm": "^3.2.25",
+    "firebase": "^8.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-firebaseui": "^4.1.0",
     "react-scripts": "0.9.5"
   },
   "devDependencies": {},
